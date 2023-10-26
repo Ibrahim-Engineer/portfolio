@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/ibrahim-waheed-4bb07019a/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Ibrahim-Engineer"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:ibrahim.waheed812@gmail.com"
+        }
+    ]
+}
